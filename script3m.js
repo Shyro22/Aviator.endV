@@ -22,10 +22,10 @@ let fly = new Audio();
 let redB = new Audio();
 let blue_break = new Audio();
 let samolet_fall = new Audio();
-fly.src = "audio/dlinnyj polet.mp3";
-redB.src = "audio/red_DTqp5ls2.mp3";
-blue_break.src = "audio/blue_break.mp3";
-samolet_fall.src = "audio/samolet.mp3";
+fly.src = "https://github.com/Shyro22/Aviator.endV/blob/main/dlinnyj%20polet.mp3";
+redB.src = "https://github.com/Shyro22/Aviator.endV/blob/main/red_DTqp51s2.mp3";
+blue_break.src = "https://github.com/Shyro22/Aviator.endV/blob/main/blue_break.mp3";
+samolet_fall.src = "https://github.com/Shyro22/Aviator.endV/blob/main/samolet.mp3";
 
 function resetGame() {
   game = {
